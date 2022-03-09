@@ -43,7 +43,7 @@ function App() {
       birthday={c.birthday}
       gender={c.gender}
       job={c.job}
-      />
+       />
     )
   })
 }
